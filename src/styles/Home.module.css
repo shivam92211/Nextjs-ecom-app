@@ -276,3 +276,16 @@
     transform: rotate(0deg);
   }
 }
+
+
+.btn {
+  padding: 12px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: rgb(6, 245, 253);
+  color: #222;
+  border: 2px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 6px;
+}
