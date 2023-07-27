@@ -41,11 +41,11 @@ const NavBar = () => {
       justify-between"
       >
           
-          <button className="flex flex-col bg-green-700 justify-center items-center ">
+          {/* <button className="flex flex-col bg-green-700 justify-center items-center ">
               <span className="bg-teal-400 block w-6 rounded-sm -translate-y-0.5"></span>
               <span className="bg-teal-400 block w-6 rounded-sm "></span>
               <span className="bg-teal-400 block w-6 rounded-sm -translate-y-0.5  "></span>
-          </button>
+          </button> */}
 
       <nav>
         <CustomLink href="/" title="Home" className="mx-4" />
